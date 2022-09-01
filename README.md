@@ -1,4 +1,12 @@
 # Nobel-Prize-Winners
 A Visual History of Nobel Prize Winners
 
-The Nobel Prize is perhaps the world's most well known scientific award. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. Surely. Right? Let's dive in!
+Project Desciption: In this Project, I have tried to explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?
+
+Technology: Python
+
+Tools and techniques used: Pandas, NumPy, Matplotlib, Seaborn
+
+Project tasks: *The most Nobel of Prizes *So, who gets the Nobel Prize? *USA dominance *USA dominance, visualized *What is the gender of a typical Nobel Prize winner? *The first woman to win the Nobel Prize *Repeat laureates *How old are you when you get the prize? *Age differences between prize categories *Oldest and youngest winners *You get a prize!
+
+Topics: 1.Data Manipulation 2.Data Visualization 3.Importing & Cleaning Data
